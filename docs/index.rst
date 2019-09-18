@@ -1,17 +1,9 @@
-Welcome to guide template's documentation!
-==========================================
+Java Gateway
+============
+
+The section demonstrates how to install and use the Java API. Jupyter notebooks are used to analyze data and save results back the server.
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   :maxdepth: 1
