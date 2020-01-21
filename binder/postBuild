@@ -1,0 +1,10 @@
+#!/bin/bash
+set -eux
+
+mkdir /tmp/omero-java
+cd /tmp/omero-java
+LIB=https://downloads.openmicroscopy.org/omero/5.6/OMERO.java.zip
+wget -q $LIB -O OMERO.java.zip
+unzip -q OMERO.java.zip
+mv OMERO.java*/libs .
+rm -rf OMERO.java*
