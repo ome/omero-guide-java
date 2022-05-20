@@ -1,11 +1,8 @@
 # User guides for the OMERO Java API
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ome/omero-guide-java/master?filepath=notebooks)
-
 [![Documentation Status](https://readthedocs.org/projects/omero-guide-java/badge/?version=latest)](https://omero-guides.readthedocs.io/en/latest/java/docs/index.html)
-
 [![Actions Status](https://github.com/ome/omero-guide-java/workflows/repo2docker/badge.svg)](https://github.com/ome/omero-guide-java/actions)
-
 [![Actions Status](https://github.com/ome/omero-guide-java/workflows/sphinx/badge.svg)](https://github.com/ome/omero-guide-java/actions)
 
 This guide demonstrates how to use the OMERO Java API.
